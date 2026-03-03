@@ -51,22 +51,6 @@ Me chamo Heitor Fidelis Vilela, tenho 20 anos e sou natural do Mato Grosso do Su
 />
 <img 
     align="left" 
-    alt="C"
-    title="C" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
-/>
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
-/>
-<img 
-    align="left" 
     alt="C#" 
     title="C#"
     width="30px" 
@@ -75,11 +59,27 @@ Me chamo Heitor Fidelis Vilela, tenho 20 anos e sou natural do Mato Grosso do Su
 />
 <img 
     align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+/>
+<img 
+    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL Server"
+    title="SQL Server" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
 />
 <img 
     align="left" 
