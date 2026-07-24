@@ -9,14 +9,14 @@ Me chamo Heitor Fidelis Vilela, tenho 21 anos e sou natural do Mato Grosso do Su
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/HeFidelis?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://img.shields.io/github/stars/HeFidelis?affiliations=OWNER&color=55960c&labelColor=488207&style=for-the-badge&logo=github&label=estrelas&cacheSeconds=3600"
         />
     </a>
     <a href="https://github.com/HeFidelis?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/HeFidelis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://img.shields.io/github/followers/HeFidelis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&logoColor=white&label=Seguidores&cacheSeconds=3600"
         />
     </a>
 </p>
